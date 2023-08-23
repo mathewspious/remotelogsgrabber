@@ -1,2 +1,2 @@
 # remotelogsgrabber
-https://medium.com/@mathewspious/python-slack-unix-disk-monitoring-cb90d3b43076
+https://medium.com/@mathewspious/streamlining-log-data-extraction-from-remote-linux-servers-using-python-automation-3de1702d3478
